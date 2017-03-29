@@ -1,0 +1,4 @@
+In Python you can print a sequence
+In Python you can make a for cycle
+In Python you can create an array
+In Python you can build a key-value map
